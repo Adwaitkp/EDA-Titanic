@@ -1,1 +1,1 @@
-# Netflix-clone
+Exploratory Data Analysis (EDA) on the Titanic dataset involves a comprehensive examination of the data to understand its structure, patterns, and relationships. This dataset typically contains information about passengers aboard the Titanic, including their demographics, ticket class, cabin, fare, and survival status.
